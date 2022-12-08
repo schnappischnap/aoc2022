@@ -1,2 +1,3 @@
 # Don't track input files
 *input.txt
+.vscode
